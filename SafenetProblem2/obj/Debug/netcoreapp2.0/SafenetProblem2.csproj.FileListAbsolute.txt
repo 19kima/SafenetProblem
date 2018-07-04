@@ -1,0 +1,11 @@
+C:\Andrew Kim\safenet\safenetProblem\SafenetProblem2\SafenetProblem2\bin\Debug\netcoreapp2.0\SafenetProblem2.deps.json
+C:\Andrew Kim\safenet\safenetProblem\SafenetProblem2\SafenetProblem2\bin\Debug\netcoreapp2.0\SafenetProblem2.runtimeconfig.json
+C:\Andrew Kim\safenet\safenetProblem\SafenetProblem2\SafenetProblem2\bin\Debug\netcoreapp2.0\SafenetProblem2.runtimeconfig.dev.json
+C:\Andrew Kim\safenet\safenetProblem\SafenetProblem2\SafenetProblem2\bin\Debug\netcoreapp2.0\SafenetProblem2.dll
+C:\Andrew Kim\safenet\safenetProblem\SafenetProblem2\SafenetProblem2\bin\Debug\netcoreapp2.0\SafenetProblem2.pdb
+C:\Andrew Kim\safenet\safenetProblem\SafenetProblem2\SafenetProblem2\obj\Debug\netcoreapp2.0\SafenetProblem2.csprojResolveAssemblyReference.cache
+C:\Andrew Kim\safenet\safenetProblem\SafenetProblem2\SafenetProblem2\obj\Debug\netcoreapp2.0\SafenetProblem2.csproj.CoreCompileInputs.cache
+C:\Andrew Kim\safenet\safenetProblem\SafenetProblem2\SafenetProblem2\obj\Debug\netcoreapp2.0\SafenetProblem2.AssemblyInfoInputs.cache
+C:\Andrew Kim\safenet\safenetProblem\SafenetProblem2\SafenetProblem2\obj\Debug\netcoreapp2.0\SafenetProblem2.AssemblyInfo.cs
+C:\Andrew Kim\safenet\safenetProblem\SafenetProblem2\SafenetProblem2\obj\Debug\netcoreapp2.0\SafenetProblem2.dll
+C:\Andrew Kim\safenet\safenetProblem\SafenetProblem2\SafenetProblem2\obj\Debug\netcoreapp2.0\SafenetProblem2.pdb
